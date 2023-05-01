@@ -1,5 +1,5 @@
 # Tweets Sentiment Classification
-Using Data Science with Machine Learning and NLP techniques to detect the Tweet Sentiment using significant features given by the most linked features that extraction from that are taken into consideration when evaluating the Sentiment of Tweet.
+Using Machine Learning, Data Science and NLP techniques to detect the Tweet Sentiment using significant features given by the most linked features that extraction from that are taken into consideration when evaluating the Sentiment of Tweet.
 
 ## Table of Contents
 * [Introduction](#introduction)
@@ -13,7 +13,7 @@ Using Data Science with Machine Learning and NLP techniques to detect the Tweet 
 
 ## Introduction
 Natural Language Processing has had a great impact as one of the most influential and used languages in the fields of Artificial Intelligence, which have been helped by the development of Natural Language Processing techniques and its algorithms and hardware/resources, one of these areas of Natural Language Processing is the sentiments analysis, which take the rule of feelings identification, which I present to you.\
-Based on this introduction, I present to you my project in solving the problem of Tweets Sentiment Classification. In this project, I tried to expand the use of Machine Learning algorithms only with NLP techniques, with the use of three types of vectorizers in these operations, which are among the most popular types in Machine Learning and NLP. and my suggestions for solving it with the best possible ways and the current capabilities using Data Science, Machine Learning and NLP.\
+Based on this introduction, I present to you my project in solving the problem of Tweets Sentiment Classification. In this project, I tried to expand the use of Machine Learning algorithms only with NLP techniques, with the use of three types of vectorizers in these operations, which are among the most popular types in Machine Learning and NLP. and my suggestions for solving it with the best possible ways and the current capabilities using Machine Learning, Data Science, and NLP.\
 Hoping to improve it gradually in the coming times.
 
 ## Dataset General info
@@ -100,7 +100,7 @@ conda install -c anaconda py-xgboost\
 5. Remove emoticons.
 6. Remove non-ASCII character.
 7. Remove punctuation.
-8. Remove extra alphabatic characters.
+8. Remove extra alphabetic characters.
 9. Remove first and end spaces.
 10. Remove numbers.
 11. Convert text words to lower case.
