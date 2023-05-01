@@ -95,16 +95,16 @@ conda install -c anaconda py-xgboost\
 1. Remove HTMLs.
 2. Remove URLs.
 3. Remove Images.
-4. Remove mentions.
+4. Remove Mentions.
 5. Remove Emoji.
 5. Remove Emoticons.
 6. Remove non-ASCII character.
 7. Remove Punctuation.
 8. Remove Extra Alphabatic characters.
-9. Remove first and end spaces.
+9. Remove First and End spaces.
 10. Remove Numbers.
 11. Convert text words to lower case.
-12. Remove single character.
+12. Remove Single character.
 
 * Data Preprocessing
 1. Remove stop words.
@@ -115,7 +115,7 @@ conda install -c anaconda py-xgboost\
 * Deep EDA
 1. Find Sents, Tokens, Lemma, POS, NER.
 2. Find the best N-Grams.
-3. Checking the most frequent words and thier counts.
+3. Checking the most frequent words and their counts.
 
 * Preprocess and modeling
 1. Processing imbalanced target in data.
