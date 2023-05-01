@@ -89,7 +89,7 @@ conda install -c anaconda py-xgboost\
 ### To Do:
 **Briefly about the process of the project work, here are (some) insights that I took care of it:**
 
-* Explored the dataset
+* Explored the dataset.
 * Doing some Exploratory data analysis (EDA).
 * Data Cleaning:
 1. Remove HTMLs.
