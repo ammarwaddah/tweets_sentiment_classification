@@ -90,34 +90,34 @@ conda install -c anaconda py-xgboost\
 **Briefly about the process of the project work, here are (some) insights that I took care of it:**
 
 * Explored the dataset
-* Doing some EDA
-* Data Cleaning
+* Doing some Exploratory data analysis (EDA).
+* Data Cleaning:
 1. Remove HTMLs.
 2. Remove URLs.
-3. Remove Images.
-4. Remove Mentions.
-5. Remove Emoji.
-5. Remove Emoticons.
+3. Remove images.
+4. Remove mentions.
+5. Remove emoji.
+5. Remove emoticons.
 6. Remove non-ASCII character.
-7. Remove Punctuation.
-8. Remove Extra Alphabatic characters.
-9. Remove First and End spaces.
-10. Remove Numbers.
+7. Remove punctuation.
+8. Remove extra alphabatic characters.
+9. Remove first and end spaces.
+10. Remove numbers.
 11. Convert text words to lower case.
-12. Remove Single character.
+12. Remove single character.
 
-* Data Preprocessing
+* Data Preprocessing:
 1. Remove stop words.
 2. Lemmatization.
 3. Stemming.
 4. Perform Training data and Validation sets.
 
-* Deep EDA
-1. Find Sents, Tokens, Lemma, POS, NER.
+* Deep Exploratory data analysis (EDA):
+1. Find Sentences, Tokens, Lemmatization, POS, NER.
 2. Find the best N-Grams.
 3. Checking the most frequent words and their counts.
 
-* Preprocess and modeling
+* Preprocess and modeling:
 1. Processing imbalanced target in data.
 trying to handle imbalanced data through up-sampling techniques.
 2. Vectorizing using:\
